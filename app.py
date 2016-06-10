@@ -1,5 +1,7 @@
 import praw
-user_agent = ("FMFABOT 0.1")
+from submission import S ubmission
+
+user_agent = ("FMFA 0.1")
 
 r = praw.Reddit(user_agent = user_agent)
 
