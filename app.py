@@ -1,5 +1,5 @@
 import praw
-from submission import S ubmission
+from submission import Submission
 
 user_agent = ("FMFA 0.1")
 
